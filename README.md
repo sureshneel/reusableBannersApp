@@ -1,6 +1,6 @@
 In this project, let's build **Reusable Banners** by applying the concepts we have learned till now.
 
-### Refer to the image below:
+### Refer to the image below: https://sureshbaner.ccbp.tech/
 
 <br/>
 <div style="text-align: center;">
